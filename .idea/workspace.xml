@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95e5c0f6-5030-467d-95f1-d24ca3ec9b25" name="Changes" comment="">
+    <list default="true" id="95e5c0f6-5030-467d-95f1-d24ca3ec9b25" name="Changes" comment="init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -57,11 +57,15 @@
       <workItem from="1712275607594" duration="1306000" />
       <workItem from="1712276936934" duration="301000" />
       <workItem from="1712283416776" duration="946000" />
-      <workItem from="1712286664165" duration="360000" />
+      <workItem from="1712286664165" duration="871000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
